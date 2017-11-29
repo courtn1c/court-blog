@@ -2,7 +2,7 @@
 # title is the drop down image in the page. 
 # and the 'docs:' is the -name of the article- 
 # NOTE not the title but the name of the article.
- 
+
 
 - title: Getting Started
   docs:
@@ -15,3 +15,8 @@
   - cheatsheet
   - font-awesome
   - bootstrap
+
+-title: how to add
+  docs: 
+  - drops-downs
+  

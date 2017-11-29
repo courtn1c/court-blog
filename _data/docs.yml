@@ -1,3 +1,9 @@
+# to create a doc copy similar pattern as below.
+# title is the drop down image in the page. 
+# and the 'docs:' is the -name of the article- 
+# NOTE not the title but the name of the article.
+ 
+
 - title: Getting Started
   docs:
   - home

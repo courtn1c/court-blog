@@ -1,14 +1,18 @@
 # Site settings
-title: Jekyll Doc Theme
+title: Jekyll Doc Theme #ADD YOUR TITLE FOR YOUR BLOG HERE.
 email: your-email@domain.com
+# add your awesome description below~!
 description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
+
+## !! ====== DO NOT TOUCH ANYTHING BELOW THIS LINE ===== !! #
+ 
+baseurl: "/court-blog" # the subpath of your site, e.g. /blog/
+
 url: https://courtn1c.github.io/court-blog # the base hostname & protocol for your site
 git_address: https://github.com/courtn1c/court-blog
-#git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
